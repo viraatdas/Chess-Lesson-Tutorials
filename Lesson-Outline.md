@@ -37,3 +37,16 @@
 4. Solved a few mate-in-two puzzles 
 5. Talked about chess point values https://www.chesskid.com/article/view/chess-pieces-values
 
+**8/16/2020**
+1. Congestion - using two rooks or a Rook or a Queen 
+2. ELO/Rating: Going from 1000 -> 1500 is easier than going from 1500 -> 2000 even though the difference in points is the same
+  - Sanctioned by USCF (United States Chess Federation) 
+3. Openings
+  - White: Ruy Lopez (Spanish Opening)
+4. HW: 
+  - https://www.youtube.com/watch?v=QOhdROYMhfI 
+    - Jot down two things that you found surprising 
+  - Play 5 gammes 15+10 Rapid game
+  - Try solving 1 mate-in-two: https://lichess.org/study/4Re4Lmxw
+  - Do 3 mate-in-one: https://lichess.org/study/OxG5SHk5
+
