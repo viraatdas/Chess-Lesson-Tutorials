@@ -40,9 +40,9 @@
 **8/16/2020**
 1. Congestion - using two rooks or a Rook or a Queen 
 2. ELO/Rating: Going from 1000 -> 1500 is easier than going from 1500 -> 2000 even though the difference in points is the same
-  - Sanctioned by USCF (United States Chess Federation) 
+   - Sanctioned by USCF (United States Chess Federation) 
 3. Openings
-  - White: Ruy Lopez (Spanish Opening)
+   - White: Ruy Lopez (Spanish Opening)
 4. HW: 
    - https://www.youtube.com/watch?v=QOhdROYMhfI: Jot down two things that you found surprising 
    - Play 5 gammes 15+10 Rapid game
