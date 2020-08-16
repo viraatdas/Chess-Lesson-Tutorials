@@ -44,9 +44,7 @@
 3. Openings
   - White: Ruy Lopez (Spanish Opening)
 4. HW: 
-  - https://www.youtube.com/watch?v=QOhdROYMhfI 
-    - Jot down two things that you found surprising 
-  - Play 5 gammes 15+10 Rapid game
-  - Try solving 1 mate-in-two: https://lichess.org/study/4Re4Lmxw
-  - Do 3 mate-in-one: https://lichess.org/study/OxG5SHk5
-
+   - https://www.youtube.com/watch?v=QOhdROYMhfI: Jot down two things that you found surprising 
+   - Play 5 gammes 15+10 Rapid game
+   - Try solving 1 mate-in-two: https://lichess.org/study/4Re4Lmxw
+   - Do 3 mate-in-one: https://lichess.org/study/OxG5SHk5
