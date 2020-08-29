@@ -68,7 +68,7 @@
 
 6. HW:
 
-   - Play $\approx$5 games **15+10 Rapid game**
+   - Play approximately 5 games **15+10 Rapid game**
 
    - Try 1 mate-in-two puzzle **#2** https://lichess.org/study/4Re4Lmxw
 
