@@ -1,5 +1,3 @@
-
-
 ### TWFnbnVzIFNvbmdhCg
 
 **7/18/2020**
@@ -38,7 +36,8 @@
 5. Talked about chess point values https://www.chesskid.com/article/view/chess-pieces-values
 
 **8/16/2020**
-1. Congestion - using two rooks or a Rook or a Queen 
+
+1. Congestion - using two rooks or a Rook or a Queen to corner king
 2. ELO/Rating: Going from 1000 -> 1500 is easier than going from 1500 -> 2000 even though the difference in points is the same
    - Sanctioned by USCF (United States Chess Federation) 
 3. Openings
@@ -48,3 +47,32 @@
    - Play 5 games **15+10 Rapid game**
    - Try solving 1 mate-in-two: https://lichess.org/study/4Re4Lmxw
    - Do 3 mate-in-one: https://lichess.org/study/OxG5SHk5
+
+**8/29/2020**
+
+1. Reviewed latest game from last week: https://lichess.org/OC6mbbC1
+
+   - Talked about mistakes and ways to improve 
+   - Keep in mind not to give up random pieces
+   - Have reason whenever you trade pieces 
+
+2. Pawn promotion - when a pawn reaches the last row, it can change into a **bishop, rook, queen, or knight**
+
+3. Stalemate -- show next time 
+
+   - it's when a player cannot make any move but it's not under check or checkmate
+
+4. https://lichess.org/O3ZXUhxV -- next time review from move 21 
+
+5. 1 mate-in-two puzzle
+
+6. HW:
+
+   - Play $\approx$5 games **15+10 Rapid game**
+
+   - Try 1 mate-in-two puzzle **#2** https://lichess.org/study/4Re4Lmxw
+
+   - https://www.youtube.com/watch?v=QOhdROYMhfI: Jot down two things that you found surprising
+
+     
+
