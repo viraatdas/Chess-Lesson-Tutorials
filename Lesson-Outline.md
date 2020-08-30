@@ -74,5 +74,26 @@
 
    - https://www.youtube.com/watch?v=QOhdROYMhfI: Jot down two things that you found surprising
 
+
+**8/30/2020**
+
+1. Discovery check - when you move a piece and it **checks** the opponent
+
+2. Fried Liver attack -- position advantage vs pieces advatange
+
+   1. White, even though down a knight, is able to attack black a lot better. Black king is very unprotected
+
+3. The student talked through the game and explained his thought process 
+
+4. HW:
+
+   - https://www.youtube.com/watch?v=QOhdROYMhfI -- what was the sacrifice?
+
+   - Play approximately 5 games **15+10 Rapid game**
+
+   - Try 1 mate-in-two puzzle **#4** https://lichess.org/study/4Re4Lmxw
+
+   - Try doing 3 mate-in-one puzzle: https://lichess.org/study/OxG5SHk5
+
      
 
