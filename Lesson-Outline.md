@@ -74,7 +74,6 @@
 
    - https://www.youtube.com/watch?v=QOhdROYMhfI: Jot down two things that you found surprising
 
-
 **8/30/2020**
 
 1. Discovery check - when you move a piece and it **checks** the opponent
@@ -88,12 +87,26 @@
 4. HW:
 
    - https://www.youtube.com/watch?v=QOhdROYMhfI -- what was the sacrifice?
-
-   - Play approximately 5 games **15+10 Rapid game**
-
+- Play approximately 5 games **15+10 Rapid game**
    - Try 1 mate-in-two puzzle **#4** https://lichess.org/study/4Re4Lmxw
+- Try doing 3 mate-in-one puzzle: https://lichess.org/study/OxG5SHk5
 
-   - Try doing 3 mate-in-one puzzle: https://lichess.org/study/OxG5SHk5
+**9/7/2020**
 
-     
+1. Hanging pieces
+   - pieces that are unguarded and can be captured by the opponent 
+2. Minor pieces: Knights, Bishops
+3. Major pieces: Rooks, Queens
+4. Did a mate-in-two puzzle
+5. Went over the Fried Liver Attack
+   1. Aggresive white opening that is based aroudn attacking the f7 square
+   2. Lichess link: https://lichess.org/study/LDCZvBvp
+   3. YouTube TheChessWebsite Fried Liver attack tutorial: https://www.youtube.com/watch?v=0ITi9Jc0J-o
+6. HW:
+   1. Play approximately 5 games **10 min Rapid game**
+   2. Try 1 mate-in-two puzzle **#5** https://lichess.org/study/4Re4Lmxw
+   3. Try doing 3 mate-in-one puzzle: https://lichess.org/study/OxG5SHk5
+   4. https://www.youtube.com/watch?v=QOhdROYMhfI -- what was the sacrifice?
+
+
 
