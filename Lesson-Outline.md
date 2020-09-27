@@ -108,5 +108,16 @@
    3. Try doing 3 mate-in-one puzzle: https://lichess.org/study/OxG5SHk5
    4. https://www.youtube.com/watch?v=QOhdROYMhfI -- what was the sacrifice?
 
+**9/27/2020**
+
+1. Hanging pieces -- make sure to check the board carefully and either take the opponents hanging pieces or make sure that you don't have any. 
+2. Keep in mind about minor and major pieces trades -- it's fine to sacrifice a minor piece for a major, but usually sacrificing a major piece for minor is not favorable 
+3. Fried Liver Attac -- played with it
+   1. Look at the links in the 9/7/2020 
+4. HW:
+   1. Play approximately 5 games **10 min Rapid game**
+   2. Try doing 3 mate-in-one puzzle: https://lichess.org/study/OxG5SHk5
+   3. https://www.youtube.com/watch?v=QOhdROYMhfI -- what was the sacrifice?
+
 
 
